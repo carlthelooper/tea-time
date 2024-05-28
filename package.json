@@ -1,0 +1,16 @@
+{
+  "name": "@carlthelooperr/tea-time",
+  "version": "1.0.0",
+  "description": "Tea time for tea.xyz",
+  "main": "main.js",
+  "author": "@carlthelooper",
+  "type": "module",
+  "repository": "https://github.com/carlthelooper/tea-time.git",
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.js" 
+  },
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
